@@ -1,0 +1,8 @@
+id,Tempo Construção Inicial,V. FO Inicial,Rel. Prof x Turm,Rel. Prof x Dia,Tempo Final,V. FO Final,Rel. Prof x Turm,Rel. Prof x Dia,Qnt vzs melhorei a FO, Qnt. Turmas,Qnt. Professores, Qnt  feito refinamento , Iteração da m Solução ,  Qnt de pos que prof x Turma , Qnt de pos que prof x dias, status
+1,0.000318,39,19,20,20.966244,21,4,17,9,26,12,3,174,45,47,Viável
+2,0.000229,27,18,9,6.535318,14,1,13,10,20,11,3,35,40,40,Inviável
+3,0.000314,38,23,15,9.501469,16,1,15,12,24,16,2,30,47,47,Viável
+4,0.000696,58,31,27,12.647561,26,1,25,13,35,15,3,68,69,69,Viável
+5,0.001021,66,36,30,16.565275,32,4,28,18,43,19,0,381,86,86,Inviável
+6,0.000870,67,34,33,17.291613,36,1,35,14,41,20,2,18,81,81,Viável
+7,0.000476,51,31,20,12.467210,18,1,17,13,35,17,3,44,70,70,Inviável
